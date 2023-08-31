@@ -5,7 +5,7 @@ function NavBar() {
     return (
         <header>
             <nav className="nav-container">
-                    <a className='logo-link' href='/'><img className="logo-image" src='assets/logo.png' alt='' /></a>
+                    <a className='logo-link' href='/'><img className="logo-image" src='assets/logo.png' alt='' loading='lazy'/></a>
                     <div className="nav-link-container">
                         <NavLink page='home'/>
                         <NavLink page='about'/>

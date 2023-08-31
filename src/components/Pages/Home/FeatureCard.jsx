@@ -20,6 +20,7 @@ function FeatureCard( props ) {
                 height="140"
                 image={"assets/"+ props.project.imageUrl}
                 alt={props.project.alt}
+                loading='lazy'
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
@@ -39,7 +40,6 @@ function FeatureCard( props ) {
               </CardContent>
           </CardActionArea>
       </Card>);
-
 }
 
 export default FeatureCard;
