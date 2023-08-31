@@ -18,7 +18,7 @@ function FeatureCard( props ) {
               <CardMedia className='card-media'
                 component="img"
                 height="140"
-                image={"/assets/"+ props.project.imageUrl}
+                image={"assets/"+ props.project.imageUrl}
                 alt={props.project.alt}
               />
               <CardContent>
