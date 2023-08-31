@@ -555,7 +555,7 @@
         }
     
         .intro-name {
-        font-size:  2rem;
+        font-size:  3rem;
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
         color:  black;
@@ -639,7 +639,7 @@
         }
 
         .card-action-area.home{
-            height: 45vh;
+            height: 30vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -830,7 +830,7 @@
         .project-container {
             
             display: grid;
-            grid-template-columns: 0.4fr 0.4fr;
+            grid-template-columns: 0.3fr 0.3fr;
             grid-template-rows: auto;
             grid-template-areas:
             "header header";
@@ -983,7 +983,7 @@
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
         color:  black;
-        right: 20px;
+        padding-right: 50px;
         animation-name: slideleft;
         animation-duration: 1.25s;
     
@@ -993,7 +993,7 @@
         font-size:  1.25rem;
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
-        left:-20;
+        padding-left:-50px;
         color:  black;
         animation-name: slideright;
         animation-duration: 1.25s;
@@ -1163,9 +1163,9 @@
         .l-img-2 {
             position: absolute;
             left: 250px;
-            top: 90px;
+            top: 100px;
             width: auto;
-            height: 25vh;
+            height: 20vh;
             z-index: 3;
             margin-top: 20px;
             border-style: solid;
@@ -1176,7 +1176,7 @@
         .hobby-content {
     
             font-size: 1.5rem;
-            width: 66vw;
+            width: 70vw;
             text-align: justify;
             line-height: 2;
             color: #333333;
@@ -1222,7 +1222,7 @@
             left: 150px;
             top: 20%;
             width: auto;
-            height: 30vh;
+            height: 25vh;
             z-index: 1;
             margin-top: 20px;
             border-style: solid;
