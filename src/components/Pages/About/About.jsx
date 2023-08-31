@@ -35,15 +35,15 @@ function About() {
                             <p>Another perk of living on an island is that there're water all around. I enjoy paddleboarding in the Summer. There's something oddly soothing about skimming the water's surface while doing a balancing act on the board, all to avoid an unplanned splashdown. It's like a crash course in mindfulness—just you, the board, and the task of staying dry! </p>
                     </div>
                     <div className='right-img'>
-                        <img className='r-img-1' src='/assets/paddleboard0.png' alt='a person carrying many paddleboard bags'/>
-                        <img className='r-img-2' src='/assets/paddleboard1.png'alt='paddleboard in the ocean'/>
+                        <img className='r-img-1' src='assets/paddleboard0.png' alt='a person carrying many paddleboard bags'/>
+                        <img className='r-img-2' src='assets/paddleboard1.png'alt='paddleboard in the ocean'/>
                     </div>
                 </div>
                 {/* Section 3 */}
                 <div className='hobby-section-l'>
                     <div className='right-img sm-img'>
-                        <img className='r-img-1' src='/assets/garden0.png' alt='pea plant'/>
-                        <img className='r-img-2' src='/assets/garden2.png' alt='tomato plant'/>
+                        <img className='r-img-1' src='assets/garden0.png' alt='pea plant'/>
+                        <img className='r-img-2' src='assets/garden2.png' alt='tomato plant'/>
                     </div>
                     <div className='hobby-content'>
                         <h3>Garden</h3>
@@ -57,8 +57,8 @@ function About() {
                             <p>Donuts are my guilty pleasure. I love everything about them—the soft, doughy texture and the sugary sweetness. Yum!😋 </p>
                     </div>
                     <div className='right-img'>
-                        <img className='r-img-1' src='/assets/donut1.png' alt='a box of donuts'/>
-                        <img className='r-img-2' src='/assets/donut2.png' alt='hand holding a donut'/>
+                        <img className='r-img-1' src='assets/donut1.png' alt='a box of donuts'/>
+                        <img className='r-img-2' src='assets/donut2.png' alt='hand holding a donut'/>
                     </div>
                 </div>
             </div>
