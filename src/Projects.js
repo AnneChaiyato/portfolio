@@ -3,7 +3,7 @@ const projects = [
         id: 0,
         title: "Quick List",
         languages: "HTML | CSS | Node.js | NoSQL (MongoDB)",
-        subTitle: "A simple todo list web application enabling users to effortlessly add tasks and remove them with a single click. The application is built using HTML and CSS for the user interface, while the backend functionality is handled by Node.js. To store users' input, the application employs MongoDB, a NoSQL database",
+        subTitle: "A simple todo list web application enabling users to effortlessly add tasks and remove them with a single click. The application is built using HTML and CSS for the user interface, while the backend functionality is handled by Node.js. To store users' input, the application uses MongoDB, a NoSQL database.",
         imageUrl: "todo.png", 
         alt: "Wooden Model doing tasks",
         url: "https://quicklist-5hwd.onrender.com/"
