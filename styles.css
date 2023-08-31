@@ -124,7 +124,7 @@
     .intro-img {
     position: relative;
     width: auto;
-    height: 50vh;
+    height: 60vh;
     margin: 0px;
     z-index: 999;
     }
@@ -516,7 +516,7 @@
     
         .nav-link {
         color: white;
-        font-size: 1rem;
+        font-size: 1.5rem;
         text-decoration: none;
         font-weight: lighter;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
@@ -525,7 +525,7 @@
     
         .nav-link-mouse-over {
         color: gray;
-        font-size: 1rem;
+        font-size: 1.5rem;
         text-decoration: none;
         font-weight: lighter;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
@@ -549,7 +549,7 @@
         .intro-img {
         position: relative;
         width: auto;
-        height: 50vh;
+        height: 60vh;
         margin: 0px;
         z-index: 999;
         }
@@ -626,7 +626,7 @@
         }   
     
         .card-action-area{
-            height: 80vh;
+            height: 60vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -639,7 +639,7 @@
         }
 
         .card-action-area.home{
-            height: 50vh;
+            height: 45vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -648,7 +648,7 @@
         }
     
         .card-media {
-            height: 30vh;
+            height: 20vh;
             width: auto;
             margin: 0px;
             padding: 0px;
@@ -974,7 +974,7 @@
         .intro-img {
         position: relative;
         width: auto;
-        height: 10vh;
+        height: 30vh;
         margin: 0px;
         z-index: 999;
         padding: 0px;
@@ -1055,7 +1055,7 @@
         }   
     
         .card-action-area{
-            height: 70vh;
+            height: 60vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -1063,7 +1063,7 @@
             
         }
         .card-action-area.home{
-            height: 20vh;
+            height: 40vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -1072,7 +1072,7 @@
         }
     
         .card-media {
-            height: 15vh;
+            height: 20vh;
             width: auto;
             margin: 0px;
             padding: 0px;
@@ -1162,7 +1162,7 @@
     
         .l-img-2 {
             position: absolute;
-            left: 400px;
+            left: 250px;
             top: 90px;
             width: auto;
             height: 30vh;
@@ -1219,7 +1219,7 @@
     
         .r-img-2 {
             position: absolute;
-            left: 150px;
+            left: 200px;
             top: 20%;
             width: auto;
             height: 30vh;
@@ -1233,7 +1233,7 @@
        
         .portfolio-title {
             text-align: left;
-            font-size: 2rem;
+            font-size: 1.5rem;
             margin-left: 15px;
             margin-bottom: 15px;
         }
