@@ -852,7 +852,7 @@
         }
     
         h3 {
-            font-size: 2rem;
+            font-size: 1.5rem;
             text-align: left;
             font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
             color: black;
@@ -927,7 +927,7 @@
     
         .logo-image {
             width: auto;
-            height: 40px;
+            height: 35px;
             align-self: flex-start;
         }
     
@@ -979,19 +979,21 @@
         }
     
         .intro-name {
-        font-size:  1rem;
+        font-size:  1.25rem;
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
         color:  black;
+        right: 20px;
         animation-name: slideleft;
         animation-duration: 1.25s;
     
         }
     
         .intro-title {
-        font-size:  1rem;
+        font-size:  1.25rem;
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
+        left:-20;
         color:  black;
         animation-name: slideright;
         animation-duration: 1.25s;
@@ -1061,7 +1063,7 @@
             
         }
         .card-action-area.home{
-            height: 35vh;
+            height: 30vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -1077,7 +1079,7 @@
         }
     
         .content-container {
-            width: 65vw;
+            width: 55vw;
             max-height: 40vh;
             margin-top: 50px;
             justify-content: start;
@@ -1160,7 +1162,7 @@
     
         .l-img-2 {
             position: absolute;
-            left: 200px;
+            left: 250px;
             top: 90px;
             width: auto;
             height: 25vh;
@@ -1174,7 +1176,7 @@
         .hobby-content {
     
             font-size: 1.5rem;
-            width: 60vw;
+            width: 66vw;
             text-align: justify;
             line-height: 2;
             color: #333333;
@@ -1217,7 +1219,7 @@
     
         .r-img-2 {
             position: absolute;
-            left: 250px;
+            left: 150px;
             top: 20%;
             width: auto;
             height: 30vh;
