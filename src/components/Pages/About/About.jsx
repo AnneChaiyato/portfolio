@@ -20,8 +20,8 @@ function About() {
                 {/* Section 1 */}
                 <div className='hobby-section-l'>
                     <div className='left-img'>
-                        <img className='l-img-1' src='/assets/nature3.png' alt='nature view' loading='lazy'/>
-                        <img className='l-img-2' src='/assets/nature1.png' alt='nature view' loading='lazy'/>
+                        <img className='l-img-1' src='assets/nature3.png' alt='nature view' loading='lazy'/>
+                        <img className='l-img-2' src='assets/nature1.png' alt='nature view' loading='lazy'/>
                     </div>
                     <div className='hobby-content'>
                         <h3>Hiking</h3>
