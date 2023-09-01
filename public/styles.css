@@ -861,7 +861,7 @@
         }
     
         h2 {
-            font-size: 1.5rem;
+            font-size: 1.25rem;
             text-align: center;
             font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
             font-weight: normal;
@@ -983,7 +983,7 @@
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
         color:  black;
-        margin-right: 150px;
+        padding-left: 150px;
         animation-name: slideleft;
         animation-duration: 1.25s;
     
@@ -1057,7 +1057,7 @@
             
         }
         .card-action-area.home{
-            height: 22vh;
+            height: 25vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
