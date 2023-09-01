@@ -24,10 +24,10 @@ function FeatureCard( props ) {
               <div className={props.page==="home"? "feature-title-home": "feature-title"}><p>{props.project.title}</p></div>
               <CardContent>
               <div className="card-content">
+              <div className={props.page==="home"? "feature-content-home": ""}>
                 <Typography gutterBottom variant="h5" component="div">
                   {props.project.title}
                 </Typography>
-                <div className={props.page==="home"? "feature-content-home": ""}>
                   <Typography gutterBottom variant="body3" color="primary" component="div">
                   <p>{props.project.languages}</p>
                   </Typography>

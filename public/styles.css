@@ -1083,6 +1083,7 @@
         }
 
         .feature-title-home {
+            font-weight: bold;
             position: absolute;
             color: white;
             bottom: 5px;
