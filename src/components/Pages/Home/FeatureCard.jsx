@@ -21,7 +21,7 @@ function FeatureCard( props ) {
                 alt={props.project.alt}
                 loading='lazy'
               />
-              <div className={props.page==="home"? "feature-title-home": "feature-title"} style={{position: "absolute", color: "white",bottom: 10,left: "10%",transform: "translateX(-50%)"}}><p>{props.project.title}</p></div>
+              <div className={props.page==="home"? "feature-title-home": "feature-title"}><p>{props.project.title}</p></div>
               <CardContent>
               <div className="card-content">
                 <Typography gutterBottom variant="h5" component="div">
