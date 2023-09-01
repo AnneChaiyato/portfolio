@@ -979,24 +979,17 @@
         }
     
         .intro-name {
-        font-size:  1.25rem;
+        font-size:  1.5rem;
         font-weight: bolder;
         font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
         color:  black;
-        margin-right: 50px;
+        margin-right: 150px;
         animation-name: slideleft;
         animation-duration: 1.25s;
     
         }
     
         .intro-title {
-        /* font-size:  1.25rem;
-        font-weight: bolder;
-        font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
-        padding-left:-50px;
-        color:  black;
-        animation-name: slideright;
-        animation-duration: 1.25s; */
         display: none;
     
     
@@ -1064,7 +1057,7 @@
             
         }
         .card-action-area.home{
-            height: 20vh;
+            height: 22vh;
             display: flex;
             flex-direction: column;
             justify-content: start;

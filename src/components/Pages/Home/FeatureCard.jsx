@@ -24,7 +24,7 @@ function FeatureCard( props ) {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  {props.project.title}
+                  <h2>{props.project.title}</h2>
                 </Typography>
                 <div className="card-content">
                 <div className={props.page==="home"? "feature-content-home": ""}>
