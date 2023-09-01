@@ -22,6 +22,7 @@ function FeatureCard( props ) {
                 alt={props.project.alt}
                 loading='lazy'
               />
+              <h2>{props.project.title}</h2>
               <CardContent>
               <div className="card-content">
                 <Typography gutterBottom variant="h5" component="div">
