@@ -1045,6 +1045,7 @@
             border-style: hidden;
             bottom: 0px;
             border-style: hidden;
+            z-index: 999;
 
         }   
     
@@ -1081,6 +1082,7 @@
             display:flex;
             flex-direction: row;
             gap: 20px;
+            
         }
     
     
