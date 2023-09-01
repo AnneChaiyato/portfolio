@@ -1171,7 +1171,7 @@
         .l-img-1 {
 
             width: auto;
-            height: 30vh;
+            height: 25vh;
             margin-left: 10vw;
             margin-top: 20px;
             z-index: 2;
@@ -1183,7 +1183,7 @@
     
         .l-img-2 {
             position: absolute;
-            left: 300px;
+            left: 270px;
             top: 110px;
             width: auto;
             height: 20vh;
@@ -1226,7 +1226,7 @@
         .r-img-1 {
             position: relative;
             width: auto;
-            height: 30vh;
+            height: 25vh;
             /* margin-left: 30px; */
             top: 10%;
             left: 10%;
@@ -1241,7 +1241,7 @@
         .r-img-2 {
             position: absolute;
             left: 150px;
-            top: 20%;
+            top: 70px;
             width: auto;
             height: 25vh;
             z-index: 1;
