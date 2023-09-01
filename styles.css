@@ -1045,7 +1045,7 @@
             border-style: hidden;
             bottom: 0px;
             border-style: hidden;
-            z-index: 999;
+            
 
         }   
     
@@ -1058,7 +1058,7 @@
             
         }
         .card-action-area.home{
-            height: 25vh;
+            height: 20vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
