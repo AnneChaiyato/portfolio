@@ -8,7 +8,6 @@ import { CardActionArea } from '@mui/material';
 function FeatureCard( props ) {
 
   function handleClick() {
-    console.log(props.project.id);
     window.location.href=props.project.url;
   }
 
@@ -22,7 +21,8 @@ function FeatureCard( props ) {
                 alt={props.project.alt}
                 loading='lazy'
               />
-              <h2>{props.project.title}</h2>
+              <div style={{position: "absolute", color: "white",bottom: 10,left: "10%",transform: "translateX(-50%)",}}><p>{props.project.title}</p></div>
+              
               <CardContent>
               <div className="card-content">
                 <Typography gutterBottom variant="h5" component="div">
