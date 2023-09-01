@@ -217,6 +217,13 @@
         border-style: hidden;
     
     }   
+    .feature-title-home {
+        display: none;
+    }
+
+    .feature-titile {
+        display: none;
+    }
 
     .card-action-area{
         height: 80vh;
@@ -632,6 +639,14 @@
             justify-content: start;
             align-items:flex-start;
             box-shadow: none;
+        }
+
+        .feature-title-home {
+            display: none;
+        }
+
+        .feature-titile {
+            display: none;
         }
 
         .feature-content-home {
@@ -1065,6 +1080,17 @@
             justify-content: start;
             align-items:flex-start;
             box-shadow: none;
+        }
+
+        .feature-title-home {
+            position: absolute;
+            color: white;
+            bottom: 5px;
+            left: 20px;
+        }
+
+        .feature-titile {
+            display: none;
         }
     
         .card-media {
