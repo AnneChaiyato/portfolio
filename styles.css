@@ -235,7 +235,7 @@
     }
 
     .card-action-area.home{
-        height: 60vh;
+        height: 40vh;
         display: flex;
         flex-direction: column;
         justify-content: start;
@@ -578,8 +578,6 @@
         color:  black;
         animation-name: slideright;
         animation-duration: 1.25s;
-    
-    
         }
     
         @keyframes slideleft {
@@ -663,7 +661,7 @@
         }
     
         .card-media {
-            height: 20vh;
+            height: 30vh;
             width: auto;
             margin: 0px;
             padding: 0px;
