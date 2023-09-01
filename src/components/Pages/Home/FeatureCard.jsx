@@ -23,10 +23,10 @@ function FeatureCard( props ) {
                 loading='lazy'
               />
               <CardContent>
+              <div className="card-content">
                 <Typography gutterBottom variant="h5" component="div">
                   <h2>{props.project.title}</h2>
                 </Typography>
-                <div className="card-content">
                 <div className={props.page==="home"? "feature-content-home": ""}>
                   <Typography gutterBottom variant="body3" color="primary" component="div">
                   <p>{props.project.languages}</p>
