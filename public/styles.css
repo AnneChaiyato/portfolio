@@ -635,7 +635,7 @@
         }   
     
         .card-action-area{
-            height: 60vh;
+            height: 70vh;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -851,7 +851,7 @@
         .project-container {
             
             display: grid;
-            grid-template-columns: 0.3fr 0.3fr;
+            grid-template-columns: 0.4fr 0.4fr;
             grid-template-rows: auto;
             grid-template-areas:
             "header header";
