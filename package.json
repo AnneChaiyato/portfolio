@@ -1,6 +1,6 @@
 {
-  "homepage": "https://annechaiyato.github.io/portfolio",
   "name": "portfolio-v2",
+  "homepage": "https://annechaiyato.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
