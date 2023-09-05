@@ -242,7 +242,7 @@
         height: 40vh;
         position: relative;
         box-shadow: none;
-        margin: 0px;
+        
     }
 
     .feature-content-home {
@@ -251,8 +251,6 @@
 
     img.card-media {
         height: 40vh;
-        margin: 0px;
-        padding: 0px;
     }
     .card-media {
         height: 40vh;
