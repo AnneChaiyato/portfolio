@@ -237,14 +237,13 @@
     }
     
     .card-action-area.home{
-        height: auto;
-        width: auto;
+        height: 30vh;
         position: relative;
         box-shadow: none;
     }
 
     .card-media {
-        height: 40vh;
+        height: 30vh;
         width: auto;
         margin: 0px;
         padding: 0px;
