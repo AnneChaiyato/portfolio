@@ -247,6 +247,7 @@
 
     .feature-content-home {
         display: none;
+        height: 0px;
     }
 
     img.card-media {
