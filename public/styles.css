@@ -170,7 +170,7 @@
 
     .feature-container {
         margin: auto;
-        width: 70vw;
+        width: 85vw;
         height: auto;
         padding-bottom: 30px;
     
@@ -200,13 +200,6 @@
     
     }  
 
-    .custom-card {
-        height: auto; 
-        margin: 0px;
-        padding: 0px;
-        
-    }
-
     .card-content {
         height: auto;
         overflow: hidden;
@@ -217,6 +210,16 @@
         border-style: hidden;
     
     }   
+
+    .card-action-area{
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items:flex-start;
+        
+    }
+
     .feature-title-home {
         font-weight: bold;
         position: absolute;
@@ -229,39 +232,27 @@
         display: none;
     }
 
-    .card-action-area{
-        height: 80vh;
+    .feature-content-home {
+        display: none;
+    }
+    
+    .card-action-area.home{
+        height: 30vh;
         display: flex;
         flex-direction: column;
         justify-content: start;
         align-items:flex-start;
-        
-    }
-    
-    .card-action-area.home{
-        height: 40vh;
-        position: relative;
         box-shadow: none;
-        
     }
 
-    .feature-content-home {
-        display: none;
-        height: 0px;
-    }
-
-    img.card-media {
-        height: 40vh;
-        object-fit: fill;
-    }
     .card-media {
-        height: 40vh;
+        height: 30vh;
         width: auto;
         margin: 0px;
         padding: 0px;
     }
 
-    .content-container {
+    /* .content-container {
         width: 90vw;
         max-height: 30vh;
         margin-top: 50px;
@@ -270,7 +261,7 @@
         display:flex;
         flex-direction: row;
         gap: 20px;
-    }
+    } */
 
 
     .about-container {
@@ -677,7 +668,7 @@
             margin: 0px;
             padding: 0px;
         }
-    
+/*     
         .content-container {
             width: 90vw;
             max-height: 30vh;
@@ -687,7 +678,7 @@
             display:flex;
             flex-direction: row;
             gap: 20px;
-        }
+        } */
     
     
         .about-container {
