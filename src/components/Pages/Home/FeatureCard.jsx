@@ -16,7 +16,6 @@ function FeatureCard( props ) {
           <CardActionArea className={props.page==="home"? "card-action-area home":"card-action-area"} onClick={handleClick}>
               <CardMedia className='card-media'
                 component="img"
-                height="140"
                 image={"assets/"+ props.project.imageUrl}
                 alt={props.project.alt}
                 loading='lazy'
