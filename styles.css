@@ -170,7 +170,7 @@
 
     .feature-container {
         margin: auto;
-        width: 70vw;
+        width: 85vw;
         height: auto;
         padding-bottom: 30px;
     
@@ -238,7 +238,10 @@
     
     .card-action-area.home{
         height: 30vh;
-        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items:flex-start;
         box-shadow: none;
     }
 
