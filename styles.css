@@ -240,7 +240,7 @@
     
     .card-action-area.home{
         height: 40vh;
-        display: relative;
+        position: relative;
         box-shadow: none;
         margin: 0px;
     }
