@@ -252,6 +252,7 @@
 
     img.card-media {
         height: 40vh;
+        object-fit: fill;
     }
     .card-media {
         height: 40vh;
