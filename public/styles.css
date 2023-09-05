@@ -237,20 +237,23 @@
         align-items:flex-start;
         
     }
-
+    
     .card-action-area.home{
         height: 40vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: start;
-        align-items:flex-start;
+        display: relative;
         box-shadow: none;
+        margin: 0px;
     }
 
     .feature-content-home {
         display: none;
     }
 
+    img.card-media {
+        height: 40vh;
+        margin: 0px;
+        padding: 0px;
+    }
     .card-media {
         height: 40vh;
         width: auto;
